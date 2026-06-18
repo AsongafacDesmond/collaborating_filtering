@@ -22,5 +22,5 @@ collaborating_filtering/
 
 If you want to contribute to this project, you can clone this entire repository (including both frontend and backend) directly using your terminal:
 
-```bash
+
 git clone [https://github.com/AsongafacDesmond/collaborating_filtering.git](https://github.com/AsongafacDesmond/collaborating_filtering.git)
