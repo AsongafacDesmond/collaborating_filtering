@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GceFilteringApplication<gce-filtering>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.recommender.gce_filtering.GceFilteringApplication",
+            "projectName": "gce-filtering",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
