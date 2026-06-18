@@ -24,3 +24,6 @@ If you want to contribute to this project, you can clone this entire repository 
 
 
 git clone [https://github.com/AsongafacDesmond/collaborating_filtering.git](https://github.com/AsongafacDesmond/collaborating_filtering.git)
+
+After cloning, navigate into the project directory:
+cd collaborating_filtering
